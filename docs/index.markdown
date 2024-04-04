@@ -11,7 +11,13 @@ Alt text, short for alternative text, is a descriptive attribute added to images
 
 ![image](images/examplealt.PNG)
 
-## **Good Alt Text vs. Bad Alt Text**
+## **Alt Text Guidelines**
+There are a number of accepted best practices to creating alt text. Following each of these guidelines will ensure that the alt text you generate is descriptive, concise, and clear to aid the visually impaired in comprehension.
+- Do not begin alt text with "image of" or "picture of" since a screen reader will already tell the reader an image is being described.
+- Keep descriptions short and concise, and mark any images that do not convey information as a decorative image.
+- Include any text in the image in your description.
+- For complex images such as graphs or charts, include a brief alt text that describes the basic properties of the image, followed by a long description that explains the essential information communicated by the image.
+- Make sure to pay attention to the context of your webpage when building alt text.
 
 ## **Step-by-Step Guide**
 
