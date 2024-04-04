@@ -20,5 +20,11 @@ There are a number of accepted best practices to creating alt text. Following ea
 - Make sure to pay attention to the context of your webpage when building alt text.
 
 ## **Step-by-Step Guide**
+1. Go to [Google Gemini](gemini.google.com) and sign in or create an account. Gemini Advanced is not required to generate alt text, but may help to create better descriptions.
+2. Upload the image you would like to generate alt text for by clicking the upload image button in the search bar, as seen below
+![step2](images/step2.png)
+3. In the prompt, write "Generate alt text for this image. Please provide a concise description."
+4. Await the reply. Once you receive the generated alt text, you may continue to provide more instructions in order to create a better suited description, or add this alt text description to your website.
+![geminigif](images/gemini.gif)
 
 ## **Tips and Tricks**
