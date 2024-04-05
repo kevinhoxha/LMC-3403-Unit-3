@@ -11,7 +11,7 @@ Alt text, short for alternative text, is a descriptive attribute added to images
 
 When a visually impaired person uses a screen reader to browse a webpage, the alt text is read aloud, enabling them to understand the content of the images. On a webpage, alt text appears as a brief, concise description embedded within the HTML code alongside the image element, ensuring accessibility and inclusivity in web design and content.
 
-Alt text has other uses besides aided the visually impaired. When images on a website cannot load properly, the alt text is loaded in their place. Search engines also analyze the alt text on your website, so including relevant alt text can help improve your website's SEO! 
+Alt text has other uses besides aiding the visually impaired. When images on a website cannot load properly, the alt text is loaded in their place. Search engines also analyze the alt text on your website, so including relevant alt text can help improve your website's SEO! 
 
 Since writing helpful alt text for every important image on your website can be a tedious process, some developers neglect alt text. 
 Fortunately, Google's AI chatbot Gemini can help you quickly write alt text for your website!
@@ -48,7 +48,7 @@ What makes alt text "good" depends heavily on the context of your website. Consi
 
 ![image](images/hugging.jpg)
 
-Suppose your webpage is a news site and the above image is including in a story about the aftermath of a devistating tornado. Here are some examples of good and bad alt text: 
+Suppose your webpage is a news site and the above image is part of a story about the aftermath of a devistating tornado. Here are some examples of good and bad alt text: 
 
 ### Helpful alt text
 ```
