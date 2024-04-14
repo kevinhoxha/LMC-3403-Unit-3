@@ -38,8 +38,8 @@ Follow these guidelines when writing alt text.
 2. Upload the image you would like to generate alt text for by clicking the upload image button in the search bar, as seen below.
 ![step2](images/step2.png)
 3. In the prompt, write "Generate alt text for this image. Please provide a concise description."
-4. Await the reply. Once you receive the generated alt text, you may continue to provide more instructions in order to create a better suited description, or add this alt text description to your website.  
 ![geminigif](images/gemini.gif)
+4. Await the reply. Once you receive the generated alt text, you may continue to provide more instructions in order to create a better suited description, or add this alt text description to your website.  
 5. As you can see in the generated examples above, the first description contained some false information as it said the score is "20 to 10" but there is no game currently being played in the image. However, the second description "An aerial night view of a football stadium with the Georgia Tech logo on the field." is suitable for alt text and would be added to my website.
 
 ## **Good vs Bad Alt Text**
@@ -52,7 +52,9 @@ Suppose your webpage is a news site and the above image is part of a story about
 
 ### Helpful alt text
 ```
-A distraught man hugs his daughter in front of collapsed walls and scattered debris from their house destroyed by a tornado.
+A distraught man hugs his daughter in front of collapsed
+ walls and scattered debris from their house destroyed by 
+ a tornado.
 ```
 
 ### Ambiguous alt text
