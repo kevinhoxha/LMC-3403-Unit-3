@@ -11,10 +11,7 @@ Alt text, or ***alternative text***, is a descriptive element added to an image 
 
 When a visually impaired person uses a screen reader to access a webpage, alt text is read aloud, providing users an alternate way to consume the image content. 
 _______________________________MOVE DOWN_____________________________________
-Alt text has other uses besides aiding the visually impaired. When images on a website cannot load properly, the alt text is loaded in their place. Search engines also analyze the alt text on your website, so including relevant alt text can help improve your website's SEO! 
 
-Since writing helpful alt text for every important image on your website can be a tedious process, some developers neglect alt text. 
-Fortunately, Google's AI chatbot Gemini can help you quickly write alt text for your website!
 
 ![image](images/examplealt.PNG)
 
@@ -63,3 +60,10 @@ A man and a woman embracing near a demolished building.
 It is important to provide Gemini with the appropriate context of your website before asking it to provide alt text for your website's images.
 
 Make sure that you carefully read what Gemini generates. Large language models like Gemini can sometimes produce false or misleading information, so you must make sure Gemini is producing alt text that is accurate, useful, and inclusive. 
+
+## **Conclusion**
+
+Alt text has other uses besides aiding the visually impaired. When images on a website cannot load properly, the alt text is loaded in their place. Search engines also analyze the alt text on your website, so including relevant alt text can help improve your website's SEO! 
+
+Since writing helpful alt text for every important image on your website can be a tedious process, some developers neglect alt text. 
+Fortunately, Google's AI chatbot Gemini can help you quickly write alt text for your website!
