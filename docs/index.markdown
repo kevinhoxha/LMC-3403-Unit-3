@@ -10,7 +10,6 @@ title: How to Generate Alt Text Using Gemini
 Alt text, or ***alternative text***, is a descriptive element added to an image on website. It provides a brief description of an image, its context and information for those who cannot view the image, particularly the visually impaired. 
 
 When a visually impaired person uses a screen reader to access a webpage, alt text is read aloud, providing users an alternate way to consume the image content. 
-_______________________________MOVE DOWN_____________________________________
 
 
 ![image](images/examplealt.PNG)
