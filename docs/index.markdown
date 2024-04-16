@@ -7,7 +7,7 @@ title: How to Generate Alt Text Using Gemini
 ---
 
 ## **What is Alt Text?**
-Alt text, or ***alternative text***, is a descriptive element added to an image on website. It provides a brief description of an image, its context and information for those who cannot view the image, particularly the visually impaired. 
+Alt text, or ***alternative text***, is a descriptive element added to an image on a website. It provides a brief description of an image, its context and information for those who cannot view the image, particularly the visually impaired. 
 
 When a visually impaired person uses a screen reader to access a webpage, alt text is read aloud, providing users an alternate way to consume the image content. 
 
@@ -15,12 +15,16 @@ When a visually impaired person uses a screen reader to access a webpage, alt te
 ![image](images/examplealt.PNG)
 
 ## **Step-by-Step Guide**
-1. Go to [Google Gemini](gemini.google.com) and sign in or create an account. Gemini Advanced is not required to generate alt text, but may help to create better descriptions.
+1. Go to [Google Gemini](https://gemini.google.com) and sign in or create an account. Gemini Advanced is not required to generate alt text, but may help to create better descriptions.
+
 2. Upload the image you would like to generate alt text for by clicking the upload image button in the search bar, as seen below.
 ![step2](images/step2.png)
+
 3. In the prompt, write "Generate alt text for this image. Please provide a concise description."
 ![geminigif](images/gemini.gif)
-4. Await the reply. Once you receive the generated alt text, you may continue to provide more instructions in order to create a better suited description, or add this alt text description to your website.  
+
+4. Await the reply. Once you receive the generated alt text, you may continue to provide more instructions in order to create a better suited description, or add this alt text description to your website.
+
 5. As you can see in the generated examples above, the first description contained some false information as it said the score is "20 to 10" but there is no game currently being played in the image. However, the second description "An aerial night view of a football stadium with the Georgia Tech logo on the field." is suitable for alt text and would be added to my website.
 
 ## **Alt Text Best Practices**
